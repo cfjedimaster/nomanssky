@@ -1,0 +1,3931 @@
+[
+	{
+		"pageid": 3219,
+		"title": "Accelerated Fire Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Aluminium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 3264,
+		"title": "Accelerated Fire Tau",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 3753,
+		"title": "Accelerated Fire Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 300
+			},
+			{
+				"name": "Iron",
+				"qty": 300
+			},
+			{
+				"name": "Dimensional Matrix",
+				"qty": 3
+			}
+		]
+	},
+	{
+		"pageid": 9924,
+		"title": "Acid",
+		"parts": [
+			{
+				"name": "Mordite",
+				"qty": 25
+			},
+			{
+				"name": "Fungal Mould",
+				"qty": 600
+			}
+		]
+	},
+	{
+		"pageid": 4311,
+		"title": "Advanced Cooling Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 30
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 30
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 3712,
+		"title": "Advanced Cooling Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 80
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 70
+			},
+			{
+				"name": "Iridium",
+				"qty": 120
+			}
+		]
+	},
+	{
+		"pageid": 3275,
+		"title": "Advanced Cooling Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 250
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 24960,
+		"title": "Advanced Mining Laser",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 50
+			},
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 4038,
+		"title": "Aeration Membrane Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 4274,
+		"title": "Aeration Membrane Tau",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 3216,
+		"title": "Aeration Membrane Theta",
+		"parts": [
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Electron Vapor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "AquaSphere",
+				"qty": 1
+			}
+		]
+	},
+	{
+		"pageid": 2609,
+		"title": "Antimatter",
+		"parts": [
+			{
+				"name": "Electron Vapor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Heridium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2609,
+		"title": "Antimatter",
+		"parts": [
+			{
+				"name": "Electron Vapor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Heridium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 4024,
+		"title": "Aronium",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 125
+			},
+			{
+				"name": "Carbon",
+				"qty": 125
+			}
+		]
+	},
+	{
+		"pageid": 4024,
+		"title": "Aronium",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 125
+			},
+			{
+				"name": "Carbon",
+				"qty": 125
+			}
+		]
+	},
+	{
+		"pageid": 2831,
+		"title": "AtlasPass V1",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 25
+			},
+			{
+				"name": "Heridium",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 3410,
+		"title": "AtlasPass V2",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 25
+			},
+			{
+				"name": "Platinum",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 3413,
+		"title": "AtlasPass V3",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 25
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 4012,
+		"title": "Beam Coolant System Sigma",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Heridium",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 4251,
+		"title": "Beam Coolant System Tau",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 200
+			},
+			{
+				"name": "Heridium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 4254,
+		"title": "Beam Coolant System Theta",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 200
+			},
+			{
+				"name": "Heridium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 3470,
+		"title": "Beam Focus Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			},
+			{
+				"name": "Heridium",
+				"qty": 20
+			},
+			{
+				"name": "Plutonium",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 4217,
+		"title": "Beam Focus Tau",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 4260,
+		"title": "Beam Focus Theta",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 200
+			},
+			{
+				"name": "Platinum",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 7165,
+		"title": "Beam Impact Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 3791,
+		"title": "Beam Impact Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 3488,
+		"title": "Beam Impact Theta",
+		"parts": [
+			{
+				"name": "Omegon",
+				"qty": 100
+			},
+			{
+				"name": "Vortex Cube",
+				"qty": 3
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 3199,
+		"title": "Beam Intensifier Sigma",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 4241,
+		"title": "Beam Intensifier Tau",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 60
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 4263,
+		"title": "Beam Intensifier Theta",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 120
+			},
+			{
+				"name": "Iron",
+				"qty": 100
+			},
+			{
+				"name": "Iridium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 47536,
+		"title": "Bio-Dome",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 80
+			},
+			{
+				"name": "Glass",
+				"qty": 5,
+				"subcomponent": true
+			},
+			{
+				"name": "Living Glass",
+				"qty": 2,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 24214,
+		"title": "Blaze Javelin",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 100
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 28898,
+		"title": "Blaze Javelin Coolant Sigma",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Heridium",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 28908,
+		"title": "Blaze Javelin Coolant Tau",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 200
+			},
+			{
+				"name": "Heridium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 28916,
+		"title": "Blaze Javelin Damage Sigma",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 30
+			},
+			{
+				"name": "Carbon",
+				"qty": 30
+			}
+		]
+	},
+	{
+		"pageid": 29909,
+		"title": "Blaze Javelin Damage Tau",
+		"parts": [
+			{
+				"name": "Platinum",
+				"qty": 100
+			},
+			{
+				"name": "Titanium",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 28926,
+		"title": "Blaze Javelin Damage Theta",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 400
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			},
+			{
+				"name": "Radnox",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 28940,
+		"title": "Blaze Javelin Drill Array Sigma",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 30
+			},
+			{
+				"name": "Plutonium",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 29919,
+		"title": "Blaze Javelin Drill Array Tau",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 60
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 28952,
+		"title": "Blaze Javelin Drill Array Theta",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 120
+			},
+			{
+				"name": "Iron",
+				"qty": 100
+			},
+			{
+				"name": "Iridium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 1663,
+		"title": "Boltcaster",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 25
+			},
+			{
+				"name": "Plutonium",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 3427,
+		"title": "Boltcaster Clip Sigma",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Titanium",
+				"qty": 20
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 6469,
+		"title": "Boltcaster Clip Tau",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			},
+			{
+				"name": "Nickel",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 6473,
+		"title": "Boltcaster Clip Theta",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 50
+			},
+			{
+				"name": "Nickel",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 5972,
+		"title": "Boltcaster SM",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 1556,
+		"title": "Bypass Chip",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 10
+			},
+			{
+				"name": "Plutonium",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 2482,
+		"title": "Carite Sheet",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 9883,
+		"title": "Circuit Board",
+		"parts": [
+			{
+				"name": "Heat Capacitor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Poly Fibre",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 4269,
+		"title": "Combat Amplifier Omega",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 400
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			},
+			{
+				"name": "Gold",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 4219,
+		"title": "Combat Amplifier Sigma",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 30
+			},
+			{
+				"name": "Carbon",
+				"qty": 30
+			}
+		]
+	},
+	{
+		"pageid": 4222,
+		"title": "Combat Amplifier Tau",
+		"parts": [
+			{
+				"name": "Platinum",
+				"qty": 100
+			},
+			{
+				"name": "Titanium",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 4267,
+		"title": "Combat Amplifier Theta",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 400
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			},
+			{
+				"name": "Radnox",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 3211,
+		"title": "Coolant Network Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 5949,
+		"title": "Coolant Network Tau",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 4506,
+		"title": "Coolant Network Theta",
+		"parts": [
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Electron Vapor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 1
+			}
+		]
+	},
+	{
+		"pageid": 9855,
+		"title": "Copper wire",
+		"parts": [
+			{
+				"name": "Kelp Sac",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2762,
+		"title": "Crolium",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 100
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 80
+			}
+		]
+	},
+	{
+		"pageid": 2762,
+		"title": "Crolium",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 100
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 80
+			}
+		]
+	},
+	{
+		"pageid": 10452,
+		"title": "Cuboid Room",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 10482,
+		"title": "Cuboid Room Flooring",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 30
+			}
+		]
+	},
+	{
+		"pageid": 10485,
+		"title": "Cuboid Room Foundation Strut",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 10488,
+		"title": "Cuboid Room Foundation Strut Quad",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 24216,
+		"title": "Cyclotron Ballista",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 29761,
+		"title": "Cyclotron Ballista Coolant Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 30
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 30
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 30185,
+		"title": "Cyclotron Ballista Coolant Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 80
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 70
+			},
+			{
+				"name": "Iridium",
+				"qty": 120
+			}
+		]
+	},
+	{
+		"pageid": 30198,
+		"title": "Cyclotron Ballista Coolant Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 250
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 30212,
+		"title": "Cyclotron Ballista Damage Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 30224,
+		"title": "Cyclotron Ballista Damage Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 30236,
+		"title": "Cyclotron Ballista Damage Theta",
+		"parts": [
+			{
+				"name": "Omegon",
+				"qty": 100
+			},
+			{
+				"name": "Vortex Cube",
+				"qty": 3
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 29758,
+		"title": "Cyclotron Ballista Fire Rate Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Aluminium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 30255,
+		"title": "Cyclotron Ballista Fire Rate Tau",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 30266,
+		"title": "Cyclotron Ballista Fire Rate Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 300
+			},
+			{
+				"name": "Iron",
+				"qty": 300
+			},
+			{
+				"name": "Dimensional Matrix",
+				"qty": 3
+			}
+		]
+	},
+	{
+		"pageid": 4182,
+		"title": "Damage Radius",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 6457,
+		"title": "Damage Radius Tau",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 200
+			},
+			{
+				"name": "Emeril",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 3479,
+		"title": "Deflection Enhancement Sigma",
+		"parts": [
+			{
+				"name": "Carite Sheet",
+				"qty": 6,
+				"subcomponent": true
+			},
+			{
+				"name": "Heridium",
+				"qty": 500
+			}
+		]
+	},
+	{
+		"pageid": 3518,
+		"title": "Deflection Enhancement Tau",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 200
+			},
+			{
+				"name": "Heridium",
+				"qty": 250
+			},
+			{
+				"name": "Iron",
+				"qty": 300
+			}
+		]
+	},
+	{
+		"pageid": 5780,
+		"title": "Deflection Enhancement Theta",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 300
+			},
+			{
+				"name": "Platinum",
+				"qty": 80
+			},
+			{
+				"name": "Emeril",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 53250,
+		"title": "Dirty Bronze",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 125
+			},
+			{
+				"name": "Copper",
+				"qty": 125
+			}
+		]
+	},
+	{
+		"pageid": 53250,
+		"title": "Dirty Bronze",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 125
+			},
+			{
+				"name": "Copper",
+				"qty": 125
+			}
+		]
+	},
+	{
+		"pageid": 2749,
+		"title": "Dynamic Resonator",
+		"parts": [
+			{
+				"name": "Antimatter",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 100
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 4,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 2651,
+		"title": "Electron Vapor",
+		"parts": [
+			{
+				"name": "Suspension Fluid",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Plutonium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 19105,
+		"title": "Exocraft Acceleration Module",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 50
+			},
+			{
+				"name": "Armadium",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 39681,
+		"title": "Exocraft Acceleration Module Upgrade Sigma",
+		"parts": [
+			{
+				"name": "Carite Sheet",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Heridium",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 39682,
+		"title": "Exocraft Acceleration Module Upgrade Tau",
+		"parts": [
+			{
+				"name": "Carite Sheet",
+				"qty": 3,
+				"subcomponent": true
+			},
+			{
+				"name": "Zinc",
+				"qty": 40
+			}
+		]
+	},
+	{
+		"pageid": 19108,
+		"title": "Exocraft Fusion Engine",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 50
+			},
+			{
+				"name": "Armadium",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 47426,
+		"title": "Exocraft Signal Scanner Upgrade Sigma",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 30
+			},
+			{
+				"name": " Carite Sheet",
+				"qty": 1
+			},
+			{
+				"name": " Zinc",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 19109,
+		"title": "Exocraft mining laser",
+		"parts": [
+			{
+				"name": "Carite Sheet",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": " Armadium",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 19186,
+		"title": "Exocraft mounted cannon",
+		"parts": [
+			{
+				"name": "Carite Sheet",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": " Power Gel",
+				"qty": 1
+			}
+		]
+	},
+	{
+		"pageid": 19185,
+		"title": "Exocraft signal booster",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 20
+			},
+			{
+				"name": " Bypass Chip",
+				"qty": 1
+			}
+		]
+	},
+	{
+		"pageid": 9963,
+		"title": "Explosive",
+		"parts": [
+			{
+				"name": "Coprite",
+				"qty": 40
+			},
+			{
+				"name": "Solanium",
+				"qty": 40
+			}
+		]
+	},
+	{
+		"pageid": 51551,
+		"title": "Geodesite",
+		"parts": [
+			{
+				"name": "Herox",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Dirty Bronze",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Lemmium",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 51551,
+		"title": "Geodesite",
+		"parts": [
+			{
+				"name": "Herox",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Dirty Bronze",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Lemmium",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 9922,
+		"title": "Glass",
+		"parts": [
+			{
+				"name": "Frost Crystal",
+				"qty": 250
+			}
+		]
+	},
+	{
+		"pageid": 4114,
+		"title": "Grantine",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 150
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Aronium",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 4114,
+		"title": "Grantine",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 150
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Aronium",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 6453,
+		"title": "Grenade Intensity Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 150
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			},
+			{
+				"name": "Heridium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 6454,
+		"title": "Grenade Intensity Tau",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 200
+			},
+			{
+				"name": "Aluminium",
+				"qty": 200
+			},
+			{
+				"name": "Nickel",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 6455,
+		"title": "Grenade Intensity Theta",
+		"parts": [
+			{
+				"name": "Neutrino Module",
+				"qty": 4
+			},
+			{
+				"name": "Aluminium",
+				"qty": 200
+			},
+			{
+				"name": "Nickel",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 3474,
+		"title": "Grenade Propulsion",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 10
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 15
+			}
+		]
+	},
+	{
+		"pageid": 6450,
+		"title": "Grenade Propulsion Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 150
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 4283,
+		"title": "Health Module Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 3948,
+		"title": "Health Module Tau",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 150
+			},
+			{
+				"name": "Carbon",
+				"qty": 250
+			},
+			{
+				"name": "Thamium9",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 4293,
+		"title": "Health Module Theta",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 200
+			},
+			{
+				"name": "Plutonium",
+				"qty": 250
+			},
+			{
+				"name": "Thamium9",
+				"qty": 300
+			}
+		]
+	},
+	{
+		"pageid": 52357,
+		"title": "Heat Capacitor",
+		"parts": [
+			{
+				"name": "Frost Crystal",
+				"qty": 100
+			},
+			{
+				"name": "Solanium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 3178,
+		"title": "Herox",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 125
+			},
+			{
+				"name": "Heridium",
+				"qty": 125
+			}
+		]
+	},
+	{
+		"pageid": 3178,
+		"title": "Herox",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 125
+			},
+			{
+				"name": "Heridium",
+				"qty": 125
+			}
+		]
+	},
+	{
+		"pageid": 4006,
+		"title": "Homing Grenade",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 100
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Gold",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 3232,
+		"title": "Homingbolt Adaptor",
+		"parts": [
+			{
+				"name": "AquaSphere",
+				"qty": 5
+			},
+			{
+				"name": "Titanium",
+				"qty": 200
+			},
+			{
+				"name": "Plutonium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 10382,
+		"title": "Hydroponics Tray",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 25
+			},
+			{
+				"name": "Zinc",
+				"qty": 5
+			}
+		]
+	},
+	{
+		"pageid": 4154,
+		"title": "Impact Damage Omega",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 200
+			},
+			{
+				"name": "Aluminium",
+				"qty": 200
+			},
+			{
+				"name": "Heridium",
+				"qty": 400
+			}
+		]
+	},
+	{
+		"pageid": 2965,
+		"title": "Impact Damage Sigma",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 2984,
+		"title": "Impact Damage Tau",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 2985,
+		"title": "Impact Damage Theta",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 200
+			},
+			{
+				"name": "Radnox",
+				"qty": 80
+			},
+			{
+				"name": "Platinum",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 24220,
+		"title": "Infra-Knife Accelerator",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 26643,
+		"title": "Infra-Knife Accelerator Coolant Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 30
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 30
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 26662,
+		"title": "Infra-Knife Accelerator Coolant Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 80
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 70
+			},
+			{
+				"name": "Iridium",
+				"qty": 120
+			}
+		]
+	},
+	{
+		"pageid": 26672,
+		"title": "Infra-Knife Accelerator Coolant Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 250
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 26710,
+		"title": "Infra-Knife Accelerator Damage Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 26716,
+		"title": "Infra-Knife Accelerator Damage Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 26722,
+		"title": "Infra-Knife Accelerator Damage Theta",
+		"parts": [
+			{
+				"name": "Omegon",
+				"qty": 100
+			},
+			{
+				"name": "Vortex Cube",
+				"qty": 3
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 26759,
+		"title": "Infra-Knife Accelerator Fire Rate Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Aluminium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 26752,
+		"title": "Infra-Knife Accelerator Fire Rate Tau",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 26756,
+		"title": "Infra-Knife Accelerator Fire Rate Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 300
+			},
+			{
+				"name": "Iron",
+				"qty": 300
+			},
+			{
+				"name": "Dimensional Matrix",
+				"qty": 3
+			}
+		]
+	},
+	{
+		"pageid": 10497,
+		"title": "Infrastructure Barrel",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 10496,
+		"title": "Infrastructure Cube",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 10499,
+		"title": "Infrastructure Divider",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 10498,
+		"title": "Infrastructure Platform",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 10495,
+		"title": "Infrastructure Sphere",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 9851,
+		"title": "Insulating Gel",
+		"parts": [
+			{
+				"name": "Cactus Flesh",
+				"qty": 20
+			},
+			{
+				"name": "Fungal Mould",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 12237,
+		"title": "Ion Blast",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 3195,
+		"title": "Jetpack Booster Sigma",
+		"parts": [
+			{
+				"name": "Carite Sheet",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Platinum",
+				"qty": 15
+			},
+			{
+				"name": "Zinc",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 3192,
+		"title": "Jetpack Booster Tau",
+		"parts": [
+			{
+				"name": "Chrysonite",
+				"qty": 150
+			},
+			{
+				"name": "Titanium",
+				"qty": 150
+			},
+			{
+				"name": "Plutonium",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 3040,
+		"title": "Jetpack Booster Theta",
+		"parts": [
+			{
+				"name": "Omegon",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 300
+			},
+			{
+				"name": "Plutonium",
+				"qty": 300
+			}
+		]
+	},
+	{
+		"pageid": 16208,
+		"title": "Landing Pad",
+		"parts": [
+			{
+				"name": "Voltaic cell",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Weatherproof Rubber",
+				"qty": 5,
+				"subcomponent": true
+			},
+			{
+				"name": "Lubricant",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 3056,
+		"title": "Lemmium",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 3056,
+		"title": "Lemmium",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 3213,
+		"title": "Life Support Module Sigma",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 4301,
+		"title": "Life Support Module Tau",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 52551,
+		"title": "Liquid Explosive",
+		"parts": [
+			{
+				"name": "Acid",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Unstable Gel",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 52547,
+		"title": "Living Glass",
+		"parts": [
+			{
+				"name": "Lubricant",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Glass",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 9926,
+		"title": "Lubricant",
+		"parts": [
+			{
+				"name": "Coprite",
+				"qty": 50
+			},
+			{
+				"name": "Gamma Root",
+				"qty": 400
+			}
+		]
+	},
+	{
+		"pageid": 3496,
+		"title": "Magmox",
+		"parts": [
+			{
+				"name": "Carbon",
+				"qty": 30
+			},
+			{
+				"name": "Thamium9",
+				"qty": 300
+			},
+			{
+				"name": "Plutonium",
+				"qty": 300
+			}
+		]
+	},
+	{
+		"pageid": 3496,
+		"title": "Magmox",
+		"parts": [
+			{
+				"name": "Carbon",
+				"qty": 30
+			},
+			{
+				"name": "Thamium9",
+				"qty": 300
+			},
+			{
+				"name": "Plutonium",
+				"qty": 300
+			}
+		]
+	},
+	{
+		"pageid": 2661,
+		"title": "Microdensity Fabric",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 53388,
+		"title": "Mind Arc",
+		"parts": [
+			{
+				"name": "Platinum",
+				"qty": 100
+			},
+			{
+				"name": "Living Glass",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Circuit Board",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 1559,
+		"title": "MineLaser",
+		"parts": [
+			{
+				"name": "Silicon",
+				"qty": 200
+			},
+			{
+				"name": "Sulfur",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 9860,
+		"title": "Non-ferrous plate",
+		"parts": [
+			{
+				"name": "Gamma Root",
+				"qty": 50
+			},
+			{
+				"name": "Marrow Bulb",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 10502,
+		"title": "Paving",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 4280,
+		"title": "Phase Coolant Sigma",
+		"parts": [
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": " Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Platinum",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 3774,
+		"title": "Phase Coolant Tau",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 150
+			},
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Platinum",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 4137,
+		"title": "Phase Coolant Theta",
+		"parts": [
+			{
+				"name": "Dimensional Matrix",
+				"qty": 1
+			},
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Copper",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 12221,
+		"title": "Photon Accelerator",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 12231,
+		"title": "Photon Blast",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 809,
+		"title": "Plasma Core Casing V1",
+		"parts": [
+			{
+				"name": "Cb",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 3749,
+		"title": "Plasma Launcher",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 30
+			},
+			{
+				"name": "Heridium",
+				"qty": 20
+			},
+			{
+				"name": "Carbon",
+				"qty": 15
+			}
+		]
+	},
+	{
+		"pageid": 52539,
+		"title": "Poly Fibre",
+		"parts": [
+			{
+				"name": "Cactus Flesh",
+				"qty": 100
+			},
+			{
+				"name": "Star Bulb",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 14182,
+		"title": "Poly-fibre",
+		"parts": [
+			{
+				"name": "Solanium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 24217,
+		"title": "Positron Ejector",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 30791,
+		"title": "Positron Ejector Coolant Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 30
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 30
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 30801,
+		"title": "Positron Ejector Coolant Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 80
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 70
+			},
+			{
+				"name": "Iridium",
+				"qty": 120
+			}
+		]
+	},
+	{
+		"pageid": 30811,
+		"title": "Positron Ejector Coolant Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 250
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 30822,
+		"title": "Positron Ejector Damage Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 30829,
+		"title": "Positron Ejector Damage Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 30841,
+		"title": "Positron Ejector Damage Theta",
+		"parts": [
+			{
+				"name": "Omegon",
+				"qty": 100
+			},
+			{
+				"name": "Vortex Cube",
+				"qty": 3
+			},
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 30851,
+		"title": "Positron Ejector Fire Rate Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Aluminium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 30860,
+		"title": "Positron Ejector Fire Rate Tau",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 30870,
+		"title": "Positron Ejector Fire Rate Theta",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 300
+			},
+			{
+				"name": "Iron",
+				"qty": 300
+			},
+			{
+				"name": "Dimensional Matrix",
+				"qty": 3
+			}
+		]
+	},
+	{
+		"pageid": 2993,
+		"title": "Power Canister",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 75
+			},
+			{
+				"name": "Carbon",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 2993,
+		"title": "Power Canister",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 75
+			},
+			{
+				"name": "Carbon",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 2757,
+		"title": "Power Gel",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 2757,
+		"title": "Power Gel",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 2747,
+		"title": "Power Reservoir",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 100
+			},
+			{
+				"name": "Carbon",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 2747,
+		"title": "Power Reservoir",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 100
+			},
+			{
+				"name": "Carbon",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 21280,
+		"title": "Pulse Spitter",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 60
+			},
+			{
+				"name": "Heridium",
+				"qty": 100
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 29193,
+		"title": "Pulse Spitter Accuracy Sigma",
+		"parts": [
+			{
+				"name": "Nickel",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 29208,
+		"title": "Pulse Spitter Accuracy Tau",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 200
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			},
+			{
+				"name": "Aluminium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 29954,
+		"title": "Pulse Spitter Accuracy Theta",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 29220,
+		"title": "Pulse Spitter Damage Sigma",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 29230,
+		"title": "Pulse Spitter Damage Tau",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 200
+			},
+			{
+				"name": "Radnox",
+				"qty": 80
+			},
+			{
+				"name": "Platinum",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 29964,
+		"title": "Pulse Spitter Damage Theta",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 200
+			},
+			{
+				"name": "Aluminium",
+				"qty": 200
+			},
+			{
+				"name": "Heridium",
+				"qty": 400
+			}
+		]
+	},
+	{
+		"pageid": 29242,
+		"title": "Pulse Spitter Reload Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 100
+			},
+			{
+				"name": "Titanium",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 29250,
+		"title": "Pulse Spitter Reload Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Titanium",
+				"qty": 100
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 29975,
+		"title": "Pulse Spitter Reload Theta",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 250
+			},
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 5730,
+		"title": "Radiation Deflector Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 5729,
+		"title": "Radiation Deflector Tau",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 5727,
+		"title": "Radiation Deflector Theta",
+		"parts": [
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Electron Vapor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 1
+			}
+		]
+	},
+	{
+		"pageid": 6048,
+		"title": "Railshot Adaptor",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 100
+			},
+			{
+				"name": "Copper",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 2832,
+		"title": "Rapidfire Sigma",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 2833,
+		"title": "Rapidfire Tau",
+		"parts": [
+			{
+				"name": "Titanium",
+				"qty": 200
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			},
+			{
+				"name": "Aluminium",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 2835,
+		"title": "Rapidfire Theta",
+		"parts": [
+			{
+				"name": "Aluminium",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 2765,
+		"title": "Rebound Grenades",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 10
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 15
+			}
+		]
+	},
+	{
+		"pageid": 6447,
+		"title": "Rebound Grenades Tau",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 200
+			},
+			{
+				"name": "Titanium",
+				"qty": 200
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 250
+			}
+		]
+	},
+	{
+		"pageid": 3468,
+		"title": "Recoil Stabiliser Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 100
+			},
+			{
+				"name": "Titanium",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 7908,
+		"title": "Recoil Stabiliser Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Titanium",
+				"qty": 100
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 7911,
+		"title": "Recoil Stabiliser Theta",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 250
+			},
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 3227,
+		"title": "Reload Accelerant Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			},
+			{
+				"name": "Heridium",
+				"qty": 15
+			},
+			{
+				"name": "Zinc",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 3226,
+		"title": "Reload Accelerant Tau",
+		"parts": [
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 2874,
+		"title": "Reload Accelerant Theta",
+		"parts": [
+			{
+				"name": "Calium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 2935,
+		"title": "Ricochet Sigma",
+		"parts": [
+			{
+				"name": "Platinum",
+				"qty": 100
+			},
+			{
+				"name": "Iron",
+				"qty": 200
+			},
+			{
+				"name": "Heridium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 2933,
+		"title": "Ricochet Tau",
+		"parts": [
+			{
+				"name": "Platinum",
+				"qty": 300
+			},
+			{
+				"name": "Zinc",
+				"qty": 150
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 2930,
+		"title": "Ricochet Theta",
+		"parts": [
+			{
+				"name": "Gold",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 24213,
+		"title": "Scatter Blaster",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 29266,
+		"title": "Scatter Blaster Accuracy Sigma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 100
+			},
+			{
+				"name": "Titanium",
+				"qty": 50
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 29279,
+		"title": "Scatter Blaster Accuracy Tau",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 200
+			},
+			{
+				"name": "Titanium",
+				"qty": 100
+			},
+			{
+				"name": "Chrysonite",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 29927,
+		"title": "Scatter Blaster Accuracy Theta",
+		"parts": [
+			{
+				"name": "Heridium",
+				"qty": 250
+			},
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 29288,
+		"title": "Scatter Blaster Capacity Sigma",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Titanium",
+				"qty": 20
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 29296,
+		"title": "Scatter Blaster Capacity Tau",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			},
+			{
+				"name": "Nickel",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 29310,
+		"title": "Scatter Blaster Capacity Theta",
+		"parts": [
+			{
+				"name": "Plutonium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 50
+			},
+			{
+				"name": "Nickel",
+				"qty": 150
+			}
+		]
+	},
+	{
+		"pageid": 29324,
+		"title": "Scatter Blaster Damage Sigma",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 29337,
+		"title": "Scatter Blaster Damage Tau",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 50
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 29942,
+		"title": "Scatter Blaster Damage Theta",
+		"parts": [
+			{
+				"name": "Iridium",
+				"qty": 200
+			},
+			{
+				"name": "Radnox",
+				"qty": 80
+			},
+			{
+				"name": "Platinum",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 29346,
+		"title": "Scatter Blaster Reload Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			},
+			{
+				"name": "Heridium",
+				"qty": 15
+			},
+			{
+				"name": "Zinc",
+				"qty": 10
+			}
+		]
+	},
+	{
+		"pageid": 29358,
+		"title": "Scatter Blaster Reload Tau",
+		"parts": [
+			{
+				"name": "Chrysonite",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 29374,
+		"title": "Scatter Blaster Reload Theta",
+		"parts": [
+			{
+				"name": "Calium",
+				"qty": 50
+			},
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Plutonium",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 4296,
+		"title": "ShieldBoost Sigma",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 15
+			},
+			{
+				"name": "Platinum",
+				"qty": 15
+			},
+			{
+				"name": "Thamium9",
+				"qty": 15
+			}
+		]
+	},
+	{
+		"pageid": 6438,
+		"title": "ShieldBoost Tau",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 100
+			},
+			{
+				"name": "Gold",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 6433,
+		"title": "ShieldBoost Theta",
+		"parts": [
+			{
+				"name": "Chrysonite",
+				"qty": 300
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 2998,
+		"title": "Shielding Plate",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2998,
+		"title": "Shielding Plate",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 100
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2739,
+		"title": "Shielding Shard",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2739,
+		"title": "Shielding Shard",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2745,
+		"title": "Shielding Sheet",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 150
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2745,
+		"title": "Shielding Sheet",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 150
+			},
+			{
+				"name": "Platinum",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 5970,
+		"title": "Shortburst Adaptor",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 60
+			},
+			{
+				"name": "Heridium",
+				"qty": 100
+			},
+			{
+				"name": "Zinc",
+				"qty": 20
+			}
+		]
+	},
+	{
+		"pageid": 2750,
+		"title": "Suspension Fluid",
+		"parts": [
+			{
+				"name": "Carbon",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 4001,
+		"title": "Terumin",
+		"parts": [
+			{
+				"name": "Emeril",
+				"qty": 40
+			},
+			{
+				"name": "Gold",
+				"qty": 40
+			},
+			{
+				"name": "Herox",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 4001,
+		"title": "Terumin",
+		"parts": [
+			{
+				"name": "Emeril",
+				"qty": 40
+			},
+			{
+				"name": "Gold",
+				"qty": 40
+			},
+			{
+				"name": "Herox",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 3197,
+		"title": "Thermic Layer Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 3460,
+		"title": "Thermic Layer Tau",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 4231,
+		"title": "Thermic Layer Theta",
+		"parts": [
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Electron Vapor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 1
+			}
+		]
+	},
+	{
+		"pageid": 5950,
+		"title": "Toxin Suppressor Sigma",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			}
+		]
+	},
+	{
+		"pageid": 4314,
+		"title": "Toxin Suppressor Tau",
+		"parts": [
+			{
+				"name": "Zinc",
+				"qty": 50
+			},
+			{
+				"name": "Carbon",
+				"qty": 100
+			},
+			{
+				"name": "Microdensity Fabric",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 5951,
+		"title": "Toxin Suppressor Theta",
+		"parts": [
+			{
+				"name": "Microdensity Fabric",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Electron Vapor",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Gravitino Ball",
+				"qty": 1
+			}
+		]
+	},
+	{
+		"pageid": 52532,
+		"title": "Unstable Gel",
+		"parts": [
+			{
+				"name": "Cactus Flesh",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 2995,
+		"title": "Unstable Plasma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 400
+			},
+			{
+				"name": "Plutonium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 2995,
+		"title": "Unstable Plasma",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 400
+			},
+			{
+				"name": "Plutonium",
+				"qty": 200
+			}
+		]
+	},
+	{
+		"pageid": 9861,
+		"title": "Voltaic cell",
+		"parts": [
+			{
+				"name": "Marrow Bulb",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 2612,
+		"title": "Warp Cell",
+		"parts": [
+			{
+				"name": "Thamium9",
+				"qty": 100
+			},
+			{
+				"name": "Antimatter",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	},
+	{
+		"pageid": 3436,
+		"title": "Warp Reactor Sigma",
+		"parts": [
+			{
+				"name": "Dynamic Resonator",
+				"qty": 1,
+				"subcomponent": true
+			},
+			{
+				"name": "Iridium",
+				"qty": 200
+			},
+			{
+				"name": "Copper",
+				"qty": 400
+			}
+		]
+	},
+	{
+		"pageid": 3206,
+		"title": "Warp Reactor Tau",
+		"parts": [
+			{
+				"name": "Dynamic Resonator",
+				"qty": 2,
+				"subcomponent": true
+			},
+			{
+				"name": "Nickel",
+				"qty": 600
+			},
+			{
+				"name": "Fungal Mould",
+				"qty": 1000
+			}
+		]
+	},
+	{
+		"pageid": 4599,
+		"title": "Warp Reactor Theta",
+		"parts": [
+			{
+				"name": "Dynamic Resonator",
+				"qty": 3,
+				"subcomponent": true
+			},
+			{
+				"name": "Gold",
+				"qty": 1000
+			},
+			{
+				"name": "Solanium",
+				"qty": 1000
+			}
+		]
+	},
+	{
+		"pageid": 52353,
+		"title": "Weatherproof Rubber",
+		"parts": [
+			{
+				"name": "Kelp Sac",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 2300,
+		"title": "Widebeam Adaptor V1",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 20
+			},
+			{
+				"name": "Heridium",
+				"qty": 20
+			},
+			{
+				"name": "Plutonium",
+				"qty": 25
+			}
+		]
+	},
+	{
+		"pageid": 3493,
+		"title": "Wideshot Adaptor",
+		"parts": [
+			{
+				"name": "Copper",
+				"qty": 40
+			},
+			{
+				"name": "Heridium",
+				"qty": 100
+			},
+			{
+				"name": "Iron",
+				"qty": 50
+			}
+		]
+	},
+	{
+		"pageid": 10494,
+		"title": "Window",
+		"parts": [
+			{
+				"name": "Iron",
+				"qty": 30
+			},
+			{
+				"name": "Glass",
+				"qty": 1,
+				"subcomponent": true
+			}
+		]
+	}
+]

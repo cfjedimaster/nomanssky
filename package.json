@@ -1,0 +1,16 @@
+{
+  "name": "nomanssky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getBuildable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raymond Camden <raymondcamden@gmail.com> (https://www.raymondcamden.com)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
