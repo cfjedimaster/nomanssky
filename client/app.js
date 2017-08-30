@@ -47,6 +47,17 @@ let bpApp = new Vue({
 				if(a.title < b.title) return -1;
 				return 0;
 			});
+		},
+		removeFromCart:function(item) {
+			console.log('remove '+item);
+			let existing = -1;
+			for(let i=0;i<this.items.length;i++) {
+				if(this.items[i].title === item) existing = i;
+			}
+			if(existing !== -1) {
+				//in theory it should ALWAYs match, but...
+				this.items.splice(existing, 1);
+			}
 		}
 	}
 });
