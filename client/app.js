@@ -2,7 +2,8 @@ let bpApp = new Vue({
 	el:'#bpList',
 	data:{
 		filter:'',
-		blueprints:[]
+		blueprints:[],
+		items:[]
 	},
 	created:function() {
 		fetch('./data.json')
@@ -24,6 +25,28 @@ let bpApp = new Vue({
 	methods:{
 		addToCart:function(item) {
 			console.log('addToCart',item);
+			console.log(this.items);
+			/* why doesn't this work?
+			let existing = this.items.findExisting((item) => {
+				return item.title === item;
+			});
+			*/
+			let existing = -1;
+			for(let i=0;i<this.items.length;i++) {
+				if(this.items[i].title === item) existing = i;
+			}
+			console.log('for '+item+' existing is '+existing);
+			if(existing === -1) {
+				this.items.push({title:item, qty:0});
+			} else {
+				this.items[existing].qty++;
+			}
+
+			this.items = this.items.sort((a,b) => {
+				if(a.title > b.title) return 1;
+				if(a.title < b.title) return -1;
+				return 0;
+			});
 		}
 	}
 });

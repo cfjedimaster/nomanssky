@@ -12,25 +12,35 @@
 	</style>
 </head>
 <body>
+
 		<h1>No Man's Sky Resource Tracker</h1>
+		<div id="bpList" v-cloak>
+
 		<table width="100%">
 			<tr valign="top">
 				<td>
 
 					<h2>Blueprint List</h2>
-					<div id="bpList" v-cloak>
-						<input type="search" placeholder="Filter" v-model="filter">
+					<input type="search" placeholder="Filter" v-model="filter">
 
-						<ul>
-							<li v-for="blueprint in filteredBlueprints" @click="addToCart(blueprint.title)">{{ blueprint.title }}</li>
-						</ul>
-					</div>
+					<ul>
+						<li v-for="blueprint in filteredBlueprints" @click="addToCart(blueprint.title)">{{ blueprint.title }}</li>
+					</ul>
 
 				</td>
 				<td>
 
 					<h2>Desired Items</h2>
-						
+					<table>
+						<tr>
+							<th>Item</th>
+							<th>Qty</th>
+						</tr>
+						<tr v-for="item in items">
+							<td>{{item.title}}</td>
+							<td>{{item.qty}}</td>
+						</tr>
+					</table>
 
 				</td>
 
@@ -40,6 +50,7 @@
 				</td>
 			</tr>
 		</table>
+		</div>
 
 		<script src="https://unpkg.com/vue"></script>
 		<script src="app.js"></script>	
