@@ -20,12 +20,17 @@ let bpApp = new Vue({
 				if(bp.title.toLowerCase().indexOf(thatFilter) >= 0) return true;
 				return false;
 			});
+		},
+		neededResources:function() {
+			let needed = [];
+			/*
+			ok, so our shopping cart (items) has an array of items and requirements.
+			*/
 		}
 	},
 	methods:{
 		addToCart:function(item) {
 			console.log('addToCart',item);
-			console.log(this.items);
 			/* why doesn't this work?
 			let existing = this.items.findExisting((item) => {
 				return item.title === item;
@@ -35,7 +40,6 @@ let bpApp = new Vue({
 			for(let i=0;i<this.items.length;i++) {
 				if(this.items[i].title === item) existing = i;
 			}
-			console.log('for '+item+' existing is '+existing);
 			if(existing === -1) {
 				this.items.push({title:item, qty:0});
 			} else {

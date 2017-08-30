@@ -48,7 +48,10 @@
 
 				<td>
 					<h2>Resources Required</h2>
-						
+					<ul>
+							<li v-for="resource in neededResources">{{ resource.name }} ({{resource.qty}})</li>
+						</ul>
+							
 				</td>
 			</tr>
 		</table>

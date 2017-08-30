@@ -9,6 +9,11 @@ const rp = require('request-promise');
 const bpURL = 'https://nomanssky.gamepedia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Blueprints&cmlimit=500&format=json&formatversion=2';
 // The URL for products:
 const pURL = 'https://nomanssky.gamepedia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Products&cmlimit=500&format=json&formatversion=2';
+// The URL for consumables
+const cURL = 'https://nomanssky.gamepedia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Consumables&cmlimit=500&format=json&formatversion=2';
+// The URL for Technology components
+const tURL = 'https://nomanssky.gamepedia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Technology_components&cmlimit=500&format=json&formatversion=2';
+
 
 //base url for fetching page content
 const rawURLBase = ' https://nomanssky.gamepedia.com/';
@@ -28,24 +33,38 @@ const IGNORE_TITLES = [
 	'Consumable',
 	'Crafting',
 	'Night Crystals',
-	'Category:Consumables'
+	'Category:Consumables',
+	'Nanite Tech Acquisitions'
 ];
 
 
-let options = {
-	json:true,
-	url:bpURL
-};
-
 Promise.all([
 	rp({json:true,url:bpURL}),
-	rp({json:true,url:pURL})
+	rp({json:true,url:pURL}),
+	rp({json:true,url:cURL}),
+	rp({json:true,url:tURL})
 ]).then((results) => {
-	let [blueprints,products] = results;
-	let buildable = [];
-	buildable.push.apply(buildable, blueprints.query.categorymembers);
-	buildable.push.apply(buildable, products.query.categorymembers);
-
+	let [blueprints,products,consumables,technology] = results;
+	let buildable = blueprints.query.categorymembers;
+	//we have dupes, so check first
+	products.query.categorymembers.forEach((prod) => {
+		let existing = buildable.findIndex(b => {
+			return b.title == prod.title;
+		});
+		if(existing === -1) buildable.push(prod);
+	});
+	consumables.query.categorymembers.forEach((con) => {
+		let existing = buildable.findIndex(b => {
+			return b.title == con.title;
+		});
+		if(existing === -1) buildable.push(con);
+	});
+	technology.query.categorymembers.forEach((tech) => {
+		let existing = buildable.findIndex(b => {
+			return b.title == tech.title;
+		});
+		if(existing === -1) buildable.push(tech);
+	});
 
 	//filter out specials
 	buildable = buildable.filter(item => {
@@ -62,7 +81,7 @@ Promise.all([
 	//buildable = buildable.slice(0,90);
 
 	console.log('Total '+buildable.length + ' things to parse.');
-	
+
 	let promises = [];
 	buildable.forEach(thing => {
 		let rawURL =  `${rawURLBase}${thing.title}?action=raw`;			
@@ -83,22 +102,17 @@ Promise.all([
 		ToDo: Decide if that makes freaking sense.
 		*/
 		buildable.forEach((item, idx) => {
-			/*
-			for each part, see if it exists in buildable[x].title
-			*/
-			item.parts.forEach(part => {
-				if(buildable.findIndex((item) => {
-					return item.title == part.name;
-				}) >= 0) {
-					part.subcomponent = true;
-				}
-			});
+			//Rename title to name
+			item.name = item.title.trim();
+			delete item.title;
+
+
 		});
 
 		//now sort by title
 		buildable = buildable.sort((a, b) => {
-			if(a.title < b.title) return -1;
-			if(a.title > b.title) return 1;
+			if(a.name < b.name) return -1;
+			if(a.name > b.name) return 1;
 			return 0;
 		});
 
@@ -129,7 +143,7 @@ function getParts(s,name) {
 	let parts = [];
 	partsRaw.forEach((pair) => {
 		let [partName, partQty] = pair.split(',');
-		parts.push({name:partName,qty:Number(partQty)});
+		parts.push({name:partName.trim(),qty:Number(partQty)});
 	});
 	return parts;
 }
