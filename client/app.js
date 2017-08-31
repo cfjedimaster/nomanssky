@@ -29,11 +29,9 @@ let bpApp = new Vue({
 			*/
 			for(let x=0;x<this.items.length;x++) {
 				let item = this.items[x];
-				console.log('doing '+JSON.stringify(item));
 				//first, find it
 				for(let i=0;i<this.blueprints.length;i++) {
 					if(this.blueprints[i].name === item.name) {
-						console.log('i need to add raw for '+item.name, this.blueprints[i].rawresources);
 						for(let key in this.blueprints[i].rawresources) {
 							if(!needed[key]) needed[key] = 0;
 							needed[key] += Number(this.blueprints[i].rawresources[key]) * item.qty;
@@ -55,7 +53,6 @@ let bpApp = new Vue({
 	},
 	methods:{
 		addToCart:function(item) {
-			console.log('addToCart',item);
 			/* why doesn't this work?
 			let existing = this.items.findExisting((item) => {
 				return item.title === item;

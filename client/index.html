@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>No Man's Sky Resource Tracker</title>
+	<link rel="stylesheet" href="app.css">
 	<style>
 	[v-cloak] {
 		display: none;
@@ -14,47 +15,55 @@
 <body>
 
 		<h1>No Man's Sky Resource Tracker</h1>
-		<div id="bpList" v-cloak>
+		<div id="bpList" v-cloak class="wrapper">
 
-		<table width="100%">
-			<tr valign="top">
-				<td>
+				<div class="one">
+				<h2>Blueprint List</h2>
+				<input type="search" placeholder="Filter" v-model="filter">
 
-					<h2>Blueprint List</h2>
-					<input type="search" placeholder="Filter" v-model="filter">
-
-					<ul>
-						<li v-for="blueprint in filteredBlueprints" @click="addToCart(blueprint.name)">{{ blueprint.name }}</li>
-					</ul>
-
-				</td>
-				<td>
-
-					<h2>Desired Items</h2>
-					<table>
-						<tr>
-							<th>Item</th>
-							<th>Qty</th>
-							<th>&nbsp;</th>
-						</tr>
-						<tr v-for="item in items">
-							<td>{{item.name}}</td>
-							<td>{{item.qty}}</td>
-							<td @click="removeFromCart(item.name)">Remove</td>
-						</tr>
-					</table>
-
-				</td>
-
-				<td>
-					<h2>Resources Required</h2>
-					<ul>
-							<li v-for="resource in neededResources">{{ resource.name }} ({{resource.qty}})</li>
-						</ul>
+				<ul class="blueprint">
+					<li v-for="blueprint in filteredBlueprints" @click="addToCart(blueprint.name)">{{ blueprint.name }}</li>
+				</ul>
+				</div>
+				
+				<div class="two">
+				<h2>Desired Items</h2>
+				<table v-if="items.length" id="itemTable">
+					<thead>
+					<tr>
+						<th>Item</th>
+						<th>Qty</th>
+						<th>&nbsp;</th>
+					</tr>
+					</thead>
+					<tbody>
+					<tr v-for="item in items">
+						<td>{{item.name}}</td>
+						<td>{{item.qty}}</td>
+						<td @click="removeFromCart(item.name)" class="remove">Remove</td>
+					</tr>
+					</tbody>
+				</table>
+				</div>
+				
+				<div class="three">
+				<h2>Resources Required</h2>
+				<table v-if="neededResources.length">
+					<thead>
+					<tr>
+						<th>Item</th>
+						<th>Qty</th>
+					</tr>
+					</thead>
+					<tbody>
+					<tr v-for="res in neededResources">
+						<td>{{res.name}}</td>
+						<td>{{res.qty}}</td>
+					</tr>
+					</tbody>
+				</table>
+				</div>
 							
-				</td>
-			</tr>
-		</table>
 		</div>
 
 		<script src="https://unpkg.com/vue"></script>

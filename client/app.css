@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul.blueprint li, .remove {
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    width: 400px;
+}
+
+td, th {
+  border: 1px solid #000;
+  padding: 0.5rem;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
