@@ -1,0 +1,13 @@
+{
+	"short_name":"NMS Resource Tracker",
+	"name":"No Man's Sky Resource Tracker",
+	"icons":[
+		{
+			"src":"images/icons/nms.png",
+			"type":"image/png",
+			"sizes":"144x144"
+		}
+	],
+	"start_url":"/index.html?utm_source=homescreen",
+	"display":"standalone"
+}
