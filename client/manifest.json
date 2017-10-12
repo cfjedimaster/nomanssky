@@ -6,6 +6,11 @@
 			"src":"images/icons/nms.png",
 			"type":"image/png",
 			"sizes":"144x144"
+		},
+		{
+			"src":"images/icons/nms192.png",
+			"type":"image/png",
+			"sizes":"192x192"
 		}
 	],
 	"start_url":"index.html?utm_source=homescreen",
