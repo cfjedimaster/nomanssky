@@ -1,4 +1,4 @@
-var CACHE_NAME = 'my-site-cache-v2';
+var CACHE_NAME = 'my-site-cache-v3';
 var urlsToCache = [
 	'https://cfjedimaster.github.io/nomanssky/client/index.html',
 	'https://cfjedimaster.github.io/nomanssky/client/index.html?utm_source=homescreen',
@@ -6,7 +6,8 @@ var urlsToCache = [
   'https://cfjedimaster.github.io/nomanssky/client/data.json',
   'https://cfjedimaster.github.io/nomanssky/client/app.css',
   'https://cfjedimaster.github.io/nomanssky/client/manifest.json',
-  'https://unpkg.com/vue'
+  'https://unpkg.com/vue',
+  'https://cfjedimaster.github.io/nomanssky/client/app.js'
 ];
 
 self.addEventListener('install', function(event) {
@@ -14,7 +15,7 @@ self.addEventListener('install', function(event) {
 	event.waitUntil(
 		caches.open(CACHE_NAME)
 		.then(function(cache) {
-			console.log('Opened cache');
+			console.log('Opened cache '+CACHE_NAME);
 			return cache.addAll(urlsToCache);
 		})
 		.catch(function(e) {
