@@ -1,10 +1,12 @@
-var CACHE_NAME = 'my-site-cache-v4';
+var CACHE_NAME = 'my-site-cache-v5';
 var urlsToCache = [
 	'https://cfjedimaster.github.io/nomanssky/client/index.html',
 	'https://cfjedimaster.github.io/nomanssky/client/index.html?utm_source=homescreen',
   'https://cfjedimaster.github.io/nomanssky/client/app.css',
   'https://cfjedimaster.github.io/nomanssky/client/data.json',
   'https://cfjedimaster.github.io/nomanssky/client/manifest.json',
+  'https://cfjedimaster.github.io/nomanssky/client/images/icons/nms.png',
+  'https://cfjedimaster.github.io/nomanssky/client/images/icons/nms192.png',
   'https://unpkg.com/vue',
   'https://cfjedimaster.github.io/nomanssky/client/app.js'
 ];
